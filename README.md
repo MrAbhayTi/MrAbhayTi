@@ -11,8 +11,6 @@
 🎓 **Bachelor’s Degree in Computer Science**, Sagar Institute of Research and Technology, Bhopal *(Graduated: 2024)*.  
 💬 Love solving analytical problems, finding trends in data, and creating data-driven dashboards.  
 
-🌐 **Portfolio Website:** [Add your portfolio link here](#)  
-
 ---
 
 ## 🛠️ Technical Skills  
@@ -80,5 +78,29 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbhayTi&layout=compact&theme=radical)  
 
 ---
+
+## 🛠️ Data Science Skills Dashboard
+
+### Programming & Analysis
+- Python: 80% ██████████▒▒▒▒▒▒
+- SQL: 75% ██████████▒▒▒▒▒▒
+- Excel: 70% █████████▒▒▒▒▒▒
+
+### Data Visualization & BI
+- Power BI: 75% ██████████▒▒▒▒▒▒
+- Tableau: 70% █████████▒▒▒▒▒▒
+- Matplotlib: 80% ██████████▒▒▒▒▒▒
+- Seaborn: 75% ██████████▒▒▒▒▒▒
+
+### Libraries & Tools
+- Pandas: 80% ██████████▒▒▒▒▒▒
+- NumPy: 75% ██████████▒▒▒▒▒▒
+- Statsmodels: 70% █████████▒▒▒▒▒▒
+
+### Concepts & Methods
+- Machine Learning: 75% ██████████▒▒▒▒▒▒
+- Statistics & Hypothesis Testing: 75% ██████████▒▒▒▒▒▒
+- ANOVA: 70% █████████▒▒▒▒▒▒
+
 
 ⭐ *"Data is more than numbers — it’s the story behind every decision."*
