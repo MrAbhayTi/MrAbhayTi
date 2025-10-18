@@ -65,7 +65,7 @@
 
 ## 📫 Connect with Me  
 
-[![Gmail](https://img.shields.io/badge/Email-Abhay.Tiwari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay.tiwari@example.com)  
+[![Gmail](https://img.shields.io/badge/Email-Abhay.Tiwari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaytiwaristn@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaytiwari)  
 [![GitHub](https://img.shields.io/badge/GitHub-MrAbhayTi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAbhayTi)  
 
