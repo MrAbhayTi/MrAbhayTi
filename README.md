@@ -8,7 +8,7 @@
 🎯 Passionate about transforming data into actionable insights that drive smart business decisions.  
 📊 Skilled in **Python, SQL, Power BI, Tableau, and Excel** for analytics, visualization, and reporting.  
 🧠 Currently pursuing **Data Science at Masai School** (Feb 2025 – Dec 2025, Bengaluru, India).  
-🎓 **Bachelor’s Degree in Computer Science**, Sagar Institute of Research and Technology, Bhopal *(Graduated: 2024)*.  
+🎓 **Bachelor’s Degree in Computer Science**, Sagar Institute of Research and Technology, Bhopal *((2020 – 2024, CGPA: 7.5 / 10).)*.  
 💬 Love solving analytical problems, finding trends in data, and creating data-driven dashboards.  
 
 ---
