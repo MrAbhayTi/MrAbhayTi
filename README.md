@@ -79,10 +79,4 @@
 
 ---
 
-## 📊 Skills Dashboard  
-
-![Skills Dashboard](Skills_Dashboard/Skills_Dashboard.png)  
-
-Or view interactive version [here](Skills_Dashboard/Skills_Dashboard.html)  
-
 ⭐ *"Data is more than numbers — it’s the story behind every decision."*
