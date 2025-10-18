@@ -65,13 +65,11 @@
 📈 **GenAI Powered Data Analytics (Forage, Tata Group)** [Certificate](https://drive.google.com/file/d/1lxz04FZBWtbtyeF-qM8eWIfz4eKk3VhW/view?usp=sharing)  
 
 ---
+## 📫 Connect with Me  
 
-## 📬 Connect with Me  
-
-[![Gmail](https://img.shields.io/badge/-abhaytiwaristn@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaytiwaristn@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-AbhayTiwari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tiwaristn/)  
-[![GitHub](https://img.shields.io/badge/-MrAbhayTi-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAbhayTi)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaytiwaristn@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tiwaristn/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAbhayTi)  
 
 
 ---
