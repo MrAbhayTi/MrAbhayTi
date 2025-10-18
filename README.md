@@ -79,28 +79,10 @@
 
 ---
 
-## 🛠️ Data Science Skills Dashboard
+## 📊 Skills Dashboard  
 
-### Programming & Analysis
-- Python: 80% ██████████▒▒▒▒▒▒
-- SQL: 75% ██████████▒▒▒▒▒▒
-- Excel: 70% █████████▒▒▒▒▒▒
+![Skills Dashboard](Skills_Dashboard/Skills_Dashboard.png)  
 
-### Data Visualization & BI
-- Power BI: 75% ██████████▒▒▒▒▒▒
-- Tableau: 70% █████████▒▒▒▒▒▒
-- Matplotlib: 80% ██████████▒▒▒▒▒▒
-- Seaborn: 75% ██████████▒▒▒▒▒▒
-
-### Libraries & Tools
-- Pandas: 80% ██████████▒▒▒▒▒▒
-- NumPy: 75% ██████████▒▒▒▒▒▒
-- Statsmodels: 70% █████████▒▒▒▒▒▒
-
-### Concepts & Methods
-- Machine Learning: 75% ██████████▒▒▒▒▒▒
-- Statistics & Hypothesis Testing: 75% ██████████▒▒▒▒▒▒
-- ANOVA: 70% █████████▒▒▒▒▒▒
-
+Or view interactive version [here](Skills_Dashboard/Skills_Dashboard.html)  
 
 ⭐ *"Data is more than numbers — it’s the story behind every decision."*
