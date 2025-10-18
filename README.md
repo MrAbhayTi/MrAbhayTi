@@ -1,92 +1,83 @@
-# 💼 Abhay Tiwari
+# 👋 Hi, I'm Abhay Tiwari  
 
-**📍 Location:** Bhopal, Madhya Pradesh, India  
-**📧 Email:** abhaytiwaristn@gmail.com  
-**📞 Phone:** +91-8120034960  
-**🔗 GitHub:** [MrAbhayTi](https://github.com/MrAbhayTi)  
-**🔗 LinkedIn:** [linkedin.com/in/abhaytiwari](#)
+💡 **Data Analyst | Python | SQL | Power BI | Statistics | Machine Learning**  
 
 ---
 
-## 🎯 Career Objective  
-Passionate and detail-oriented **Data Analyst** skilled in Python, SQL, Power BI, and Statistics. Dedicated to turning raw data into actionable insights that support data-driven business decisions. Currently pursuing Data Science at Masai School and building end-to-end analytics projects.
+## 🧑‍💼 About Me  
+🎯 Passionate about transforming data into actionable insights that drive smart business decisions.  
+📊 Skilled in **Python, SQL, Power BI, Tableau, and Excel** for analytics, visualization, and reporting.  
+🧠 Currently pursuing **Data Science at Masai School** (Feb 2025 – Dec 2025, Bengaluru, India).  
+🎓 **Bachelor’s Degree in Computer Science**, (Sagar Institute of research and Technology Bhopal) *(Year of Completion: 2024)*.  
+💬 Love solving analytical problems, finding trends in data, and creating data-driven dashboards.  
+
 
 ---
 
-## 🎓 Education  
-**Masai School – Data Science Program**  
-*Jan 2024 – Present*  
-- Focus: Python, SQL, Machine Learning, Statistics, Power BI, and Excel  
+## 🛠️ Technical Skills  
 
-**Bachelor’s Degree (Sagar institute of research and technology Bhopal)**  
-*Year of Completion: 2024*  
-
----
-
-## 💻 Projects  
-
-### 🥇 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends  
-- Analyzed **27,000+ BigBasket products** to explore pricing trends across categories, brands, and pack sizes.  
-- Performed **data cleaning**, **EDA**, and **statistical tests (t-test, ANOVA)** to reveal key price drivers.  
-- SQL queries identified top brands, price variations, and category-level differences.  
-- Created dashboards showing KPIs like **average price (₹174)** and **top categories** such as *Beauty & Hygiene*.  
-
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, SQL, Tableau  
+**Programming & Analysis:** Python, SQL, Excel  
+**Visualization & BI:** Power BI, Tableau  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels  
+**Concepts:** Statistics, Hypothesis Testing, Machine Learning, ANOVA  
 
 ---
 
-### 📊 Sales Data Analysis – Customer & Product Insights  
-- Used the **Sample Superstore dataset** to uncover sales and profit trends across regions.  
-- Applied Python-based **EDA and SQL** queries to identify customer segments and profitable categories.  
-- Designed **Power BI dashboards** to visualize total sales, profits, and discount impacts.  
+## 💼 Experience  
 
-**Tech Stack:** Python, SQL, Power BI  
+### 🧩 Data Analyst Intern — (Add Organization Name if any)  
+📅 *Expected / Ongoing*  
+- Worked on real-world datasets using **Python and SQL**.  
+- Designed **interactive Power BI dashboards** to visualize KPIs and business metrics.  
+- Delivered **data-driven insights** supporting decision-making processes.  
 
 ---
+
+## 🚀 Projects  
+
+### 🧾 MarketMetrics — Analyzing Grocery & FMCG Pricing Trends  
+**Tech Stack:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+- Analyzed **27,000+ BigBasket products** to understand pricing trends across categories and brands.  
+- Conducted **data cleaning, EDA**, and **statistical tests (t-test, ANOVA)**.  
+- Created dashboards showing KPIs like **average price (₹174)** and **top-performing categories**.  
+
+### 💹 Sales Data Analysis — Customer & Product Insights  
+**Tech Stack:** Python, SQL, Power BI, Pandas  
+- Explored **Sample Superstore data** to identify profit and sales trends.  
+- Performed **SQL-based insights** and created Power BI dashboards for visualization.  
+- Helped identify top customers, profitable categories, and regional performance.  
 
 ### 🎓 Student Performance & Retention Analysis  
-- Analyzed the **Open University Learning Analytics Dataset** using SQL **window functions**.  
-- Explored **student engagement patterns** and identified factors contributing to dropouts.  
-- Delivered insights to improve **student retention** and optimize course scheduling.  
-
 **Tech Stack:** SQL, Power BI  
+- Analyzed **Open University Learning Analytics dataset** using SQL window functions.  
+- Identified student engagement patterns and dropout trends.  
+- Provided actionable strategies to improve **student retention and scheduling**.  
 
 ---
 
-### 📈 ANOVA Analysis – Hypothesis Testing  
-- Conducted **One-Way and Two-Way ANOVA** using Python (`scipy`, `statsmodels`).  
-- Tested real-world scenarios to understand the effect of categorical variables on performance.  
-- Interpreted p-values and visualized group differences.  
-
-**Tech Stack:** Python, Statistics  
-
----
-
-## 🧠 Technical Skills  
-- **Programming:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scipy  
-- **Tools:** Power BI, Excel, Tableau, Jupyter Notebook  
-- **Machine Learning:** Linear/Logistic Regression, Clustering, Decision Trees  
-- **Statistics:** Hypothesis Testing, Correlation, ANOVA, Descriptive Analysis  
-- **Database:** MySQL, PostgreSQL  
-- **Soft Skills:** Analytical Thinking, Problem Solving, Team Collaboration  
+## 🏅 Certifications  
+🎓 **Data Science Program — Masai School (2025)**  
+📊 **Python for Data Analysis (Coursera)**  
+🧩 **SQL for Data Analytics (Masai Projects)**  
+📈 **Power BI Fundamentals (Microsoft Learn)**  
 
 ---
 
-## 🧩 Certifications  
-- Data Science Program – Masai School  
-- Python for Data Analysis (Coursera)  
-- SQL for Data Analytics (optional if applicable)  
+## 📫 Connect with Me  
+
+[![Gmail](https://img.shields.io/badge/Email-Abhay.Tiwari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay.tiwari@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaytiwari)  
+[![GitHub](https://img.shields.io/badge/GitHub-MrAbhayTi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAbhayTi)  
+
+ 
 
 ---
 
-## 💡 Hobbies  
-- Playing Cricket 🏏  
-- Exploring Data Projects 📊  
-- Reading about Tech & Business Trends 📚  
+## ⚡ GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAbhayTi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAbhayTi&layout=compact&theme=radical)  
 
 ---
 
-## 📎 Project Repository  
-[MarketMetrics – Analyzing Grocery & FMCG Pricing Trends](https://github.com/MrAbhayTi/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends)  
-[Download Dataset/Report](https://drive.google.com/file/d/1sO50OofAQNOvq43gLV_edeVmKO-Ccs_9/view?usp=drive_link)
+⭐ *"Data is more than numbers — it’s the story behind every decision."*
